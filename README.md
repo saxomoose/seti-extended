@@ -1,34 +1,18 @@
 Google Docs icons
 
+Due to restrictions on [publishing restrictions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#publishing-extensions), this extension cannot be distributed via the VS Code Extension Marketplace.
+
 ## Features
 
-Google Docs icons
+Extends your vscode theme with Google Docs icons.
 
-## Extension Settings
+## Installation
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
-
-For example:
-
-This extension contributes the following settings:
-
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
+Download the vsix file.
+Run `code --install-extension google-docs-icons-1.0.0.vsix`
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
-
 ### 1.0.0
 
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
-testtest
+Initial release
