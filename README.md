@@ -1,4 +1,5 @@
 Google Docs icons
+===
 
 Due to [publishing restrictions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#publishing-extensions), this extension cannot be distributed via the VS Code Extension Marketplace.
 
