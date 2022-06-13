@@ -1,0 +1,68 @@
+{
+    "name": "google-docs-icons",
+    "displayName": "Google Docs icons",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Programming Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "gdoc",
+                "aliases": [
+                    "Google Docs"
+                ],
+                "extensions": [
+                    ".gdoc"
+                ],
+                "icon": {
+                    "light": "icons/docs-prod.svg",
+                    "dark": "icons/docs-prod.svg"
+                }
+            },
+            {
+                "id": "gsheet",
+                "aliases": [
+                    "Google Sheets"
+                ],
+                "extensions": [
+                    ".gsheet"
+                ],
+                "icon": {
+                    "light": "icons/sheets-prod.svg",
+                    "dark": "icons/sheets-prod.svg"
+                }
+            },
+            {
+                "id": "gslides",
+                "aliases": [
+                    "Google Slides"
+                ],
+                "extensions": [
+                    ".gslides"
+                ],
+                "icon": {
+                    "light": "icons/slides-prod.svg",
+                    "dark": "icons/slides-prod.svg"
+                }
+            },
+            {
+                "id": "gform",
+                "aliases": [
+                    "Google Forms"
+                ],
+                "extensions": [
+                    ".gform"
+                ],
+                "icon": {
+                    "light": "icons/forms-prod.svg",
+                    "dark": "icons/forms-prod.svg"
+                }
+            }
+        ]
+    }
+}
