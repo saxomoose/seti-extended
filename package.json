@@ -3,6 +3,8 @@
     "displayName": "Google Docs icons",
     "description": "",
     "version": "0.0.1",
+    "publisher": "saxomoose",
+    "repository": "https://github.com/saxomoose/google-docs-icons.git",
     "engines": {
         "vscode": "^1.68.0"
     },
