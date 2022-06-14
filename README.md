@@ -7,7 +7,7 @@ Due to [publishing restrictions](https://code.visualstudio.com/api/working-with-
 
 ## Features
 
-Extends the Seti icon theme with the supported icons:
+Supported icons:
 
 - Google Docs
 - Google Sheets
