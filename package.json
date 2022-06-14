@@ -1,8 +1,10 @@
 {
-    "name": "google-docs-icons",
-    "displayName": "Google Docs icons",
+    "name": "seti-extended",
+    "displayName": "Seti extended",
     "description": "",
-    "version": "0.0.1",
+    "version": "1.0.0",
+    "publisher": "saxomoose",
+    "repository": "https://github.com/saxomoose/seti-extended.git",
     "engines": {
         "vscode": "^1.68.0"
     },
