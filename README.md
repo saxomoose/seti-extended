@@ -7,7 +7,7 @@ Due to [publishing restrictions](https://code.visualstudio.com/api/working-with-
 
 ## Features
 
-Extends your vscode theme with the supported icons.
+Extends the Seti icon theme with the supported icons.
 
 ## Installation
 
